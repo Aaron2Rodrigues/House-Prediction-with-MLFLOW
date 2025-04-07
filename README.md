@@ -2,7 +2,7 @@
 
 This project trains a **Random Forest Regressor** model on the California Housing dataset and performs **hyperparameter tuning** using `GridSearchCV`. The best model and its metrics are logged using **MLflow**.
 
-(assets/diagram)
+![Workflow](assets/diagram)
 
 ---
 
