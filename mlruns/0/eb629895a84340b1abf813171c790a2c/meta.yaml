@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eb629895a84340b1abf813171c790a2c/artifacts
+end_time: 1744024072649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb629895a84340b1abf813171c790a2c
+run_name: valuable-stoat-421
+run_uuid: eb629895a84340b1abf813171c790a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744023892440
+status: 4
+tags: []
+user_id: Chris

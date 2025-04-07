@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85e001dc4dbc41e9a938c8b2f0996300/artifacts
+end_time: 1739701371459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85e001dc4dbc41e9a938c8b2f0996300
+run_name: vaunted-perch-682
+run_uuid: 85e001dc4dbc41e9a938c8b2f0996300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739701215230
+status: 3
+tags: []
+user_id: Chris
